@@ -1,4 +1,4 @@
-/* main.h hea  */
+/* main.h head  */
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdarg.h>
