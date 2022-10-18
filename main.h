@@ -1,4 +1,4 @@
-/* main.h header file comm */
+/* main.h header file commen */
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdarg.h>
