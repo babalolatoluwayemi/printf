@@ -1,4 +1,4 @@
-/* main.h header f  */
+/* main.h header fi  */
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdarg.h>
