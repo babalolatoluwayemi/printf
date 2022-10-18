@@ -1,7 +1,7 @@
 Our printf () function
 Authors
 Babalola Toluwayemi
-Mahir Umar
+Umar Murtala
 Description
 The format string is a character string, is composed of zero or more directives
 
