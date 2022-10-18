@@ -1,6 +1,6 @@
                         17/10/22             \" DATE
 
-.Sh AUTHOR 		\"Babalola Toluwayemi, Mahir Umar
+.Sh AUTHOR 		\"Babalola Toluwayemi, Umar Murtala
 
 .Dt _Printf ( "Alx Software Engineering Printf Manual"  \" Program name and manual section number
 .   
@@ -71,10 +71,10 @@ int main()
 
 {
 
-_printf("Hello world, I'm a %s", "Babalola");
+_printf("Hello world, This is %s", "Babalola and Umar");
 
 return (0);
 
 }
 
-Hello world, I'm a Babalola
+Hello world, I'm a Babalola and Umar
